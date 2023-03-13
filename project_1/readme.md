@@ -1,4 +1,4 @@
-![](/project_0/images/python-guess-number-game.png)
+![](/project_1/images/python-guess-number-game.png)
 
 # <center> Проект. "Угадай число"</center>
 
