@@ -1,1 +1,1 @@
-# guess-the-number-game
+# Игра угадай число
